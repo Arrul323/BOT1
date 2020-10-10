@@ -1,38 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Arrul323 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-dhenza1415
-/
-SELFBOT2
-0
-319
-Code
-Issues
-Pull requests
-2
-Actions
-Projects
-Wiki
-Security
-Insights
-SELFBOT2/selfbotsk2.py /
-@dhenza1415
-dhenza1415 Add files via upload
-Latest commit 419a685 on Aug 20
- History
- 1 contributor
-3985 lines (3743 sloc)  234 KB
-  
 # -*- coding: utf-8 -*-
 #Thaks to Hello world square
 #Thaks to all suport team bot
